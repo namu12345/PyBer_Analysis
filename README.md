@@ -45,7 +45,22 @@ And it resulted in below image :
 
 ![image](https://user-images.githubusercontent.com/92283185/142745138-0394c93a-55a0-4ed7-995c-04cf1a322067.png)
 
-The last section of our analysis is to visualize our data in graphical way. This is done by 
+The last section of our analysis is to visualize our data in graphical way. This is done by creating Line graph showing the fare for each city type from Jan to April 2019.
+
+![image](https://user-images.githubusercontent.com/92283185/142777259-74447110-7325-42a7-8fa2-b98b306c1b3e.png)
+
+# Summary :
+
+To summarize Pyber analysis I noticed following differences :
+
+- Looking at Pyber summary dataframe as shown in above section it is noticed that Rural has very less drivers i.e 78 drivers as compared to 490 & 2405 for Suburban and urban resp.
+- So Urban cities have 4x+ more drivers than suburban cities. Suburban cities have 6x + more drivers than rural with almost 4.5x the revenue.
+- The average fare per driver is way too high for Rural i.e.$55.49 as compared to Urban has $16.57 average fare per driver.
+- Drivers in rural cities are earning more than drivers in urban cities. This could discourage potential drivers from working with PyBer given the low average fare per driver.
+- In conclusion we can effectively say that a rural area will command a higher fare because there are fewer workers that will come to this area, the travel time and distance is most likely longer making the average fare per ride & driver the most out of all city types.
+
+Based on the analysis my business recommendations to Pyber are: Increasing the amount of drivers in Rural areas to ensure there are enough drivers to meet ride demand. Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
+
 
 
 
